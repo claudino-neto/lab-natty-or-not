@@ -38,7 +38,8 @@ No prompt de comando do copilot requisitei o tipo de imagem que queria e atravé
 ## 💭 Reflexão (Opcional)
 Aco muito interessante o uso de IA em diferentes áreas do nosso dia a dia.
 ```
-
+Imagem gerada por IA:
+![image](https://github.com/claudino-neto/lab-natty-or-not/assets/115763601/3a06ac4b-acc5-46a4-af07-ecd2b4e8fde0)
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
