@@ -20,22 +20,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# O Rei das Cavernas ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Uma imagem de um homem das cavernas cavalgando em um tigre dente de sabre
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Bing Image Creator
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+No prompt de comando do copilot requisitei o tipo de imagem que queria e através disto ele gerou as imagens
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+![image](https://github.com/claudino-neto/lab-natty-or-not/assets/115763601/3a06ac4b-acc5-46a4-af07-ecd2b4e8fde0)
+
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Aco muito interessante o uso de IA em diferentes áreas do nosso dia a dia.
 ```
 
 ### Exemplos e Insigths
